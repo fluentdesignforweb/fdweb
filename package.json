@@ -1,19 +1,22 @@
 {
-  "name": "fluent-design-for-web",
+  "name": "fdweb",
   "version": "1.0.0",
-  "description": "Fluent Design based CSS Framework",
-  "main": "index.js",
+  "description": "CSS Framework based on Fluent Design",
+  "main": "fluent.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shivendrasaurav/Fluent-Design-For-Web.git"
+    "url": "git+https://github.com/fluentdesignweb/fdweb.git"
   },
   "author": "Shivendra Saurav",
-  "license": "Open Source",
+  "license": "ISC",
   "bugs": {
-    "url": "https://github.com/shivendrasaurav/Fluent-Design-For-Web/issues"
+    "url": "https://github.com/fluentdesignweb/fdweb/issues"
   },
-  "homepage": "https://github.com/shivendrasaurav/Fluent-Design-For-Web#readme"
+  "homepage": "https://github.com/fluentdesignweb/fdweb#readme",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
 }
