@@ -1,0 +1,19 @@
+{
+  "name": "fluent-design-for-web",
+  "version": "1.0.0",
+  "description": "Fluent Design based CSS Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivendrasaurav/Fluent-Design-For-Web.git"
+  },
+  "author": "Shivendra Saurav",
+  "license": "Open Source",
+  "bugs": {
+    "url": "https://github.com/shivendrasaurav/Fluent-Design-For-Web/issues"
+  },
+  "homepage": "https://github.com/shivendrasaurav/Fluent-Design-For-Web#readme"
+}
