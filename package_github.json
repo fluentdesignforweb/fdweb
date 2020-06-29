@@ -1,6 +1,6 @@
 {
-  "name": "fdweb",
-  "version": "1.0.3",
+  "name": "@fluentdesignweb/fdweb",
+  "version": "1.0.4",
   "description": "CSS Framework based on Fluent Design",
   "main": "fluent.css",
   "scripts": {
@@ -16,7 +16,5 @@
     "url": "https://github.com/fluentdesignweb/fdweb/issues"
   },
   "homepage": "https://github.com/fluentdesignweb/fdweb#readme",
-  "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
-  }
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
