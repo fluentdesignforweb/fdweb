@@ -1,6 +1,6 @@
 {
   "name": "fdweb",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "CSS Framework based on Fluent Design",
   "main": "fluent.css",
   "scripts": {
